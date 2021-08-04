@@ -30,7 +30,7 @@
         <a class="nav-link" href="https://corona20virus-tracker.herokuapp.com/indiacoronalive.php">indiacoronalive</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="https://corona20virus-tracker.herokuapp.com//#contactid">Contact</a>
+        <a class="nav-link" href="https://corona20virus-tracker.herokuapp.com/#contactid">Contact</a>
       </li>
     </ul>
   </div>
