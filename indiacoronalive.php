@@ -18,19 +18,19 @@
         <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="http://localhost/Covid%20tracker%20Project/#aboutid">About</a>
+        <a class="nav-link" href="https://corona20virus-tracker.herokuapp.com/#aboutid">About</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="http://localhost/Covid%20tracker%20Project/#sympid">Symptoms</a>
+        <a class="nav-link" href="https://corona20virus-tracker.herokuapp.com/#sympid">Symptoms</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="http://localhost/Covid%20tracker%20Project/#previd">prevention</a>
+        <a class="nav-link" href="https://corona20virus-tracker.herokuapp.com/#previd">prevention</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="http://localhost/Covid%20tracker%20Project/indiacoronalive.php">indiacoronalive</a>
+        <a class="nav-link" href="https://corona20virus-tracker.herokuapp.com/indiacoronalive.php">indiacoronalive</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="http://localhost/Covid%20tracker%20Project/#contactid">Contact</a>
+        <a class="nav-link" href="https://corona20virus-tracker.herokuapp.com//#contactid">Contact</a>
       </li>
     </ul>
   </div>
